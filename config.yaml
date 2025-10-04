@@ -24,7 +24,7 @@ options:
     - database: homeassistant
       username: homeassistant
 ports:
-  3306/tcp: null
+  3307/tcp: null
 schema:
   databases:
     - str
